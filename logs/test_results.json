@@ -1,0 +1,92 @@
+{
+  "run_at": "2026-03-05T13:23:45.735071+00:00",
+  "results": [
+    {
+      "name": "Test 1 – The Verification Challenge",
+      "query": "What is the total number of jobs reported, and where exactly is this stated?",
+      "status": "PASS",
+      "checks_passed": 3,
+      "checks_total": 3,
+      "answer": "**Query:** What is the total number of jobs reported, and where exactly is this stated?\n\n**Retrieved Evidence from Cyber Ireland 2022 Report:**\n\n1. [Page 23 | JOB VACANCIES ANALYSIS]\n   25 ISC2 (2021).  A Resilient Cybersecurity Profession Charts the Path Forward . Available at: https://www.isc2.org//-/media/ISC2/Research/2021/ ISC2-Cybersecurity-Workforce-Study-2021.ashx 26 Somers, C. and Byrne, E. (2021)  Cyber Security Skills Report 2021  Available at: https://cyberireland.ie/wp\n\n2. [Page 18 | Employment]\n   SECURITY EMPLOYEES BY DEDICATED &  DIVERSIFIED STATUS Source: Perspective Economics CYBER SECURITY EMPLOYMENT  (BY SIZE):  FIGURE 4.3 NUMBER OF CYBER SECURITY  EMPLOYEES BY COMPANY SIZE Source: Perspective Economics DEDICATED 3,368 (46%) DIVERSIFIED 3,983 (54%) ESTIMATED CYBER SECURITY EMPLOYMENT LA\n\n3. [Page 24 | Page 24]\n   jobs-in-belfast  30 Business Insider (2021).  Big tech firms pledge more than $31 billion and 250,000 jobs to strengthen cybersecurity . Available at: https://www. businessinsider.com/apple-amazon-google-microsoft-ibm-pledge-31-billion-to-cybersecurity-2021-8?r=US&IR=T 27 Trading Economics (2022).  \n\n4. [Page 36 | Employment]\n   The research team used company accounts and survey data to estimate cyber security-related employment,  followed by revenue and GVA. Where there were gaps in data, estimates have been used on a  per employee  basis. A simple CAGR of 10% is assumed for employment and GVA forecasting up to 2030.\n\n5. [Page 24 | NUMBER OF POSTS]\n   CYBER IRELAND 2022 EDITION 46 47 STATE OF THE CYBER SECURITY SECTOR IN IRELAND FIGURE 5.1 NUMBER OF JOB POSTINGS (DECEMBER 2021) FIGURE 5.2 JOB POST EXPERIENCE LEVEL Source: LinkedIn recruitment data (December 2021) Source: LinkedIn recruitment data (December 2021) (n=658 with experience level reque\n\n6. [Page 17 | Employment]\n   proportion of the firm s activity related to cyber security). Reported cyber security revenue estimated (for the most recent financial year) through the  business survey undertaken in 2021. The nature of company data available means this is an estimate only and should be reviewed annually.  We also \n\n\n*Note: Answer synthesised directly from document chunks. For AI-generated prose, add a valid GOOGLE_API_KEY with Gemini access.*",
+      "citations": [
+        {
+          "page": 23,
+          "quote": "25 ISC2 (2021).  A Resilient Cybersecurity Profession Charts the Path Forward . Available at: https://www.isc2.org//-/media/ISC2/Research/2021/ ISC2-Cybersecurity-Workforce-Study-2021.ashx 26 Somers, "
+        },
+        {
+          "page": 18,
+          "quote": "SECURITY EMPLOYEES BY DEDICATED &  DIVERSIFIED STATUS Source: Perspective Economics CYBER SECURITY EMPLOYMENT  (BY SIZE):  FIGURE 4.3 NUMBER OF CYBER SECURITY  EMPLOYEES BY COMPANY SIZE Source: Perspe"
+        },
+        {
+          "page": 24,
+          "quote": "jobs-in-belfast  30 Business Insider (2021).  Big tech firms pledge more than $31 billion and 250,000 jobs to strengthen cybersecurity . Available at: https://www. businessinsider.com/apple-amazon-goo"
+        },
+        {
+          "page": 36,
+          "quote": "The research team used company accounts and survey data to estimate cyber security-related employment,  followed by revenue and GVA. Where there were gaps in data, estimates have been used on a  per e"
+        },
+        {
+          "page": 17,
+          "quote": "proportion of the firm s activity related to cyber security). Reported cyber security revenue estimated (for the most recent financial year) through the  business survey undertaken in 2021. The nature"
+        }
+      ],
+      "reasoning_trace_steps": 5,
+      "elapsed_seconds": 13.72,
+      "timestamp": "2026-03-05T13:23:40.580034+00:00"
+    },
+    {
+      "name": "Test 2 – The Data Synthesis Challenge",
+      "query": "Compare the concentration of 'Pure-Play' cybersecurity firms in the South-West against the National Average.",
+      "status": "PASS",
+      "checks_passed": 3,
+      "checks_total": 3,
+      "answer": "**Query:** Compare the concentration of 'Pure-Play' cybersecurity firms in the South-West against the National Average.\n\n**Retrieved Evidence from Cyber Ireland 2022 Report:**\n\n1. [Page 13 | Employment]\n   8 Including Northern Ireland, which is also mapped separately.  Source: Perspective Economics (n = 489)  Source: Perspective Economics (n = 489)  Figure 3.2 shows that 160 (33%) of total firms are  dedicated (pure-play) and fully attribute their  employment and revenue to activity within the  cyber \n\n2. [Page 13 | Page 13]\n   CYBER IRELAND 2022 EDITION 24 25 STATE OF THE CYBER SECURITY SECTOR IN IRELAND Figure 3.3 provides further detail on the company  size by dedicated and diversified status. It is found  that pure-play cyber security firms are typically  smaller in scope (as reflected across comparable  international \n\n3. [Page 13 | DEDICATED]\n   the research explores the country location of the   headquartered  or  parent  firm involved in each of  the cyber security businesses identified.  In total, 240 domestic, or Irish-headquartered, firms  were identified, which is almost half (49%) of all firms  engaging in the cyber security sector i\n\n4. [Page 12 | Revenue]\n   approximately 10% of UK cyber security firms are  large, compared to 44% in Ireland.  For the 56% of cyber security businesses that  are SMEs, these are split between medium (12%),  small (16%), and micro-enterprises (28%). DEDICATED & DIVERSIFIED PROVIDERS OF  CYBER SECURITY PRODUCTS & SERVICES  Wi\n\n5. [Page 18 | Employment]\n   support domestic firm growth and expansion of  their cyber security teams.  Source: Perspective Economics The following charts explore the extent of cyber security employment by the headquartered location,  dedicated and diversified status, and by size. A granular breakdown of employment across Irel\n\n6. [Page 18 | Employment]\n   Figure 4.2 highlights that employment within  Ireland s cyber security sector is relatively split  between dedicated (pure-play) and diversified  firms. This highlights the importance of growing  the cyber security ecosystem through support for  both pure-play firms and also cyber security teams  wi\n\n\n*Note: Answer synthesised directly from document chunks. For AI-generated prose, add a valid GOOGLE_API_KEY with Gemini access.*",
+      "citations": [
+        {
+          "page": 13,
+          "quote": "8 Including Northern Ireland, which is also mapped separately.  Source: Perspective Economics (n = 489)  Source: Perspective Economics (n = 489)  Figure 3.2 shows that 160 (33%) of total firms are  de"
+        },
+        {
+          "page": 12,
+          "quote": "approximately 10% of UK cyber security firms are  large, compared to 44% in Ireland.  For the 56% of cyber security businesses that  are SMEs, these are split between medium (12%),  small (16%), and m"
+        },
+        {
+          "page": 18,
+          "quote": "support domestic firm growth and expansion of  their cyber security teams.  Source: Perspective Economics The following charts explore the extent of cyber security employment by the headquartered loca"
+        }
+      ],
+      "reasoning_trace_steps": 6,
+      "elapsed_seconds": 2.32,
+      "timestamp": "2026-03-05T13:23:42.992692+00:00"
+    },
+    {
+      "name": "Test 3 – The Forecasting Challenge (CAGR)",
+      "query": "Based on our 2022 baseline and the stated 2030 job target, what is the required compound annual growth rate (CAGR) to hit that goal?",
+      "status": "PASS",
+      "checks_passed": 3,
+      "checks_total": 3,
+      "answer": "**Query:** Based on our 2022 baseline and the stated 2030 job target, what is the required compound annual growth rate (CAGR) to hit that goal?\n\n**Retrieved Evidence from Cyber Ireland 2022 Report:**\n\n1. [Page 27 | Employment]\n   Applying a 10% annual growth rate to the current estimates suggests that Ireland s cyber security  sector could scale to approximately  2.5bn in annual GVA and support over 17,000 cyber security  roles by 2030, as outlined below: 2021  1,075,523,670 (current estimate) 7,351 (current estimate) 2022  \n\n2. [Page 27 | Introduction]\n   challenges that exist within the sector that can  impact a sustainable growth rate. 7.1 INTRODUCTION 7.2 GROWTH POTENTIAL  As set out previously, we estimate that the cyber security sector in Ireland currently employs more than  7,350 people, and generates direct GVA for the Irish economy of approxi\n\n3. [Page 36 | Employment]\n   The research team used company accounts and survey data to estimate cyber security-related employment,  followed by revenue and GVA. Where there were gaps in data, estimates have been used on a  per employee  basis. A simple CAGR of 10% is assumed for employment and GVA forecasting up to 2030.\n\n4. [Page 37 | Employment]\n   Available at: https://www.qub.ac.uk/ecit/CSIT/About/Filetoupload,1077295,en.pdf  Comparitech (2022)  US Cybersecurity Salary & Employment Study - which state has the best prospects? .  Available at: https://www.comparitech.com/blog/vpn-privacy/cybersecurity-employment-study/  CPO Magazine (2021)  1H\n\n5. [Page 5 | Revenue]\n   compliance, and fraud services (28%).    Other products and services include threat  intelligence, monitoring, detection and analysis  (26%), operational technology security and  connected devices (13%), and identification,  authentication, and access control (11%). It is estimated that in the most \n\n6. [Page 37 | Page 37]\n   Attracting Tech Talent to Ireland . Available at: https://enterprise.gov.ie/en/What-We-Do/Workplace- and-Skills/Skills-for-Enterprise/Attracting-Tech-Talent-to-Ireland/  Business Insider (2021).  Big tech firms pledge more than $31 billion and 250,000 jobs to strengthen  cybersecurity . Available at\n\n\n*Note: Answer synthesised directly from document chunks. For AI-generated prose, add a valid GOOGLE_API_KEY with Gemini access.*",
+      "citations": [
+        {
+          "page": 27,
+          "quote": "Applying a 10% annual growth rate to the current estimates suggests that Ireland s cyber security  sector could scale to approximately  2.5bn in annual GVA and support over 17,000 cyber security  role"
+        },
+        {
+          "page": 36,
+          "quote": "The research team used company accounts and survey data to estimate cyber security-related employment,  followed by revenue and GVA. Where there were gaps in data, estimates have been used on a  per e"
+        },
+        {
+          "page": 37,
+          "quote": "Available at: https://www.qub.ac.uk/ecit/CSIT/About/Filetoupload,1077295,en.pdf  Comparitech (2022)  US Cybersecurity Salary & Employment Study - which state has the best prospects? .  Available at: h"
+        },
+        {
+          "page": 5,
+          "quote": "compliance, and fraud services (28%).    Other products and services include threat  intelligence, monitoring, detection and analysis  (26%), operational technology security and  connected devices (13"
+        }
+      ],
+      "reasoning_trace_steps": 6,
+      "elapsed_seconds": 2.63,
+      "timestamp": "2026-03-05T13:23:45.716148+00:00"
+    }
+  ]
+}

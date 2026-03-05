@@ -1,0 +1,31 @@
+# ── Core framework ──────────────────────────────────────────────────────────
+fastapi==0.111.0
+uvicorn[standard]==0.29.0
+pydantic==2.7.1
+pydantic-settings==2.2.1
+python-dotenv==1.0.1
+
+# ── LLM / Agent ─────────────────────────────────────────────────────────────
+openai==1.30.1
+langchain==0.2.3
+langchain-openai==0.1.7
+langchain-community==0.2.3
+langgraph==0.1.6
+
+# ── Vector database ──────────────────────────────────────────────────────────
+chromadb==0.5.0
+
+# ── PDF parsing ──────────────────────────────────────────────────────────────
+pymupdf==1.24.3          # fitz — fast text extraction
+pdfplumber==0.11.0       # fallback table extraction
+camelot-py[cv]==0.11.0   # lattice/stream table extraction (requires Ghostscript)
+opencv-python-headless==4.9.0.80
+
+# ── HTTP & utilities ──────────────────────────────────────────────────────────
+requests==2.31.0
+httpx==0.27.0            # used in test_queries.py
+tqdm==4.66.4
+tenacity==8.3.0
+
+# ── Text processing ───────────────────────────────────────────────────────────
+tiktoken==0.7.0
